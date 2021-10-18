@@ -1,0 +1,50 @@
+
+body{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(img/download.jpg);
+    background-image: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-position: center;
+    background-size:800px;
+    margin-bottom: 50px;
+}
+
+
+h1{
+    text-shadow: -4px 3px 0 #3a50d9, -14px 7px 0 #0a0e27;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    color:goldenrod;
+    
+}
+#msg{
+font-style: italic;
+font-size: 40px;
+font-weight: bold;
+text-transform:capitalize;
+   
+}
+.choice{
+font-size: 30px;
+}
+
+#btn,#newCard{
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:#0a0e27;
+    width:150px;
+    height:60px;
+    background-color: goldenrod;
+    border:3px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 8px;
+}
